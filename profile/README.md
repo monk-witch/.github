@@ -10,6 +10,8 @@ The canonical edition, reading order, release information, and project notes are
 
 Join readers at [r/MonkAndWitch](https://www.reddit.com/r/MonkAndWitch/).
 
+You can also find the saga on [Archive of Our Own](https://archiveofourown.org/users/fredpot20/profile).
+
 ## This organisation
 
 This organisation currently supports *The Monk & The Witch*. Most project repositories are private working spaces; any future public repositories will appear here when they are ready to share.
