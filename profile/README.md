@@ -4,11 +4,13 @@ The Monk & The Witch is the home of a free, long-form **Forgotten Realms** fan-s
 
 The story follows Rishi, a Mercy monk shaped by discipline and practical compassion, and Maeril, an abjurer-witch of wards, shelter, and stubborn protection. It is a story about mercy, love, and the consequences of trying to help in a world too large for one body to fix.
 
-## Read the saga
+## Read and follow the saga
 
 The canonical edition, reading order, release information, and project notes are available at **[monkandwitch.com](https://monkandwitch.com/en/)**.
 
-Join readers at [r/MonkAndWitch](https://www.reddit.com/r/MonkAndWitch/).
+For official news, release announcements, and project updates, follow [r/MonkAndWitch on Reddit](https://www.reddit.com/r/MonkAndWitch/).
+
+Go behind the pages on [Tumblr](https://www.tumblr.com/monkandwitch) for lore, character spotlights, stories, and notes from the creative process.
 
 You can also find the saga on [Archive of Our Own](https://archiveofourown.org/users/fredpot20/works).
 
