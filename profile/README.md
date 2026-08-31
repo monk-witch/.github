@@ -8,11 +8,11 @@ The story follows Rishi, a Mercy monk shaped by discipline and practical compass
 
 The canonical edition, reading order, release information, and project notes are available at **[monkandwitch.com](https://monkandwitch.com/en/)**.
 
+You can also find the saga on [Inkitt](https://www.inkitt.com/fredpot20) and [Archive of Our Own](https://archiveofourown.org/users/fredpot20/works).
+
 For official news, release announcements, and project updates, follow [r/MonkAndWitch on Reddit](https://www.reddit.com/r/MonkAndWitch/).
 
 Go behind the pages on [Tumblr](https://www.tumblr.com/monkandwitch) for lore, character spotlights, stories, and notes from the creative process.
-
-You can also find the saga on [Archive of Our Own](https://archiveofourown.org/users/fredpot20/works).
 
 ## This organisation
 
