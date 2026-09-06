@@ -1,8 +1,21 @@
 # The Monk & The Witch
 
-The Monk & The Witch is the home of a free, long-form **Forgotten Realms** fan-saga by [Fred Potvin](https://monkandwitch.com/en/author/).
+*The Monk & The Witch* is a free, unofficial **Dungeons & Dragons fan-fiction saga set in the Forgotten Realms**, by [Fred Potvin](https://monkandwitch.com/en/author/).
 
-The story follows Rishi, a Mercy monk shaped by discipline and practical compassion, and Maeril, an abjurer-witch of wards, shelter, and stubborn protection. It is a story about mercy, love, and the consequences of trying to help in a world too large for one body to fix.
+The story follows **Rishi**, a monk devoted to mercy, and **Maeril**, an abjurer whose magic protects the people she loves. Their relationship shapes a saga about love, practical compassion, and the consequences of trying to help in a world too large to save.
+
+Begin with *Mercy and Wards*, the first book. A monk takes a blade meant for a frightened boy. A witch watching through her hawk refuses to let his mercy end in a prison cell.
+
+**[Start with Book 1 — Mercy and Wards. Read free online.](https://monkandwitch.com/en/b1/)**
+
+*For mature readers.*
+
+## Public projects
+
+Meet the saga's protagonists as companion pets:
+
+- **[Chibi Rishi](https://github.com/monk-witch/pet-rishi)** — Rishi, the Monk, as a pixel-art companion.
+- **[Chibi Maeril](https://github.com/monk-witch/pet-maeril)** — Maeril, the Witch, as a pixel-art companion.
 
 ## Read and follow the saga
 
@@ -13,10 +26,6 @@ You can also find the saga on [Inkitt](https://www.inkitt.com/fredpot20) and [Ar
 For official news, release announcements, and project updates, follow [r/MonkAndWitch on Reddit](https://www.reddit.com/r/MonkAndWitch/).
 
 Go behind the pages on [Tumblr](https://www.tumblr.com/monkandwitch) for lore, character spotlights, stories, and notes from the creative process.
-
-## This organisation
-
-This organisation currently supports *The Monk & The Witch*. Most project repositories are private working spaces; any future public repositories will appear here when they are ready to share.
 
 ## Fan content notice
 
