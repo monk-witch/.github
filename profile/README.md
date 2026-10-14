@@ -10,13 +10,6 @@ Begin with *Mercy and Wards*, the first book. A monk takes a blade meant for a f
 
 *For mature readers.*
 
-## Public projects
-
-Meet the saga's protagonists as companion pets:
-
-- **[Chibi Rishi](https://github.com/monk-witch/pet-rishi)** — Rishi, the Monk, as a pixel-art companion.
-- **[Chibi Maeril](https://github.com/monk-witch/pet-maeril)** — Maeril, the Witch, as a pixel-art companion.
-
 ## Read and follow the saga
 
 The canonical edition, reading order, release information, and project notes are available at **[monkandwitch.com](https://monkandwitch.com/en/)**.
