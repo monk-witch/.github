@@ -6,7 +6,7 @@ The story follows **Rishi**, a human monk determined to answer violence with mer
 
 Begin with *Mercy and Wards*, the first book. A monk takes a blade meant for a frightened boy. A witch watching through her hawk refuses to let his mercy end in a prison cell.
 
-**[Start with Book 1 — Mercy and Wards. Read free online.](https://monkwitch.com/en/b1/)**
+**[Start with Book 1 — Mercy and Wards](https://monkwitch.com/en/b1/)**
 
 *For mature readers.*
 
